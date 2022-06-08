@@ -8,7 +8,7 @@
   Output will be a list, each item contains bounding box, text and recognition confidence
 
   ```bash
-[2022/06/07 20:59:20] ppocr INFO: **********./imgs_en/img_12.jpg**********
+[2022/06/07 20:59:20] ppocr INFO: ********** ./imgs_en/img_12.jpg **********
 [2022/06/07 20:59:20] ppocr DEBUG: dt_boxes num : 11, elapse : 0.35411715507507324
 [2022/06/07 20:59:20] ppocr DEBUG: cls num  : 11, elapse : 0.09706902503967285
 [2022/06/07 20:59:23] ppocr DEBUG: rec_res num  : 11, elapse : 2.3295300006866455
@@ -57,6 +57,6 @@
   Output will be a list, each item contains text and recognition confidence
 
   ```bash
-[2022/06/07 21:07:32] ppocr INFO: **********./imgs_words/en/word_1.png**********
+[2022/06/07 21:07:32] ppocr INFO: ********** ./imgs_words/en/word_1.png **********
 [2022/06/07 21:07:32] ppocr INFO: ('JOINT', 0.9981608390808105)
   ```
