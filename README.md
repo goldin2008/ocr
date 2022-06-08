@@ -4,6 +4,16 @@
 
 > https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/quickstart_en.md
 
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/PP-OCRv3_introduction_en.md
+
+> https://www.paddlepaddle.org.cn/hub/scene/ocr
+
+> https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.5/doc/doc_en
+
+> https://aistudio.baidu.com/aistudio/course/introduce/25207
+
+> https://iq.opengenus.org/delete-conda-environment/
+
 ## 1. Installation
 
 <a name="11-install-paddlepaddle"></a>
