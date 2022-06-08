@@ -17,6 +17,10 @@
 ## Setup
 > conda install poppler
 
+> pip install pdf2files
+
+> pip install poppler-utils
+
 ## 1. Installation
 
 <a name="11-install-paddlepaddle"></a>
