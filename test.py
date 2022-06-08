@@ -28,3 +28,4 @@ sys.exit()
 im_show = draw_ocr(image, boxes, txts, scores, font_path='./ppocr_img/fonts/simfang.ttf')
 im_show = Image.fromarray(im_show)
 im_show.save('w9-result.jpg')
+

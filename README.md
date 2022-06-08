@@ -14,6 +14,9 @@
 
 > https://iq.opengenus.org/delete-conda-environment/
 
+## Setup
+> conda install poppler
+
 ## 1. Installation
 
 <a name="11-install-paddlepaddle"></a>
