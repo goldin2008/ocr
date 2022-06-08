@@ -8,8 +8,8 @@
   Output will be a list, each item contains bounding box, text and recognition confidence
 
   ```bash
-[2022/06/07 20:59:20] ppocr INFO: ********** ./imgs_en/img_12.jpg **********
-[2022/06/07 20:59:20] ppocr DEBUG: dt_boxes num : 11, elapse : 0.35411715507507324
+  [2022/06/07 20:59:20] ppocr INFO: ********** ./imgs_en/img_12.jpg **********
+  [2022/06/07 20:59:20] ppocr DEBUG: dt_boxes num : 11, elapse : 0.35411715507507324
 [2022/06/07 20:59:20] ppocr DEBUG: cls num  : 11, elapse : 0.09706902503967285
 [2022/06/07 20:59:23] ppocr DEBUG: rec_res num  : 11, elapse : 2.3295300006866455
 [2022/06/07 20:59:23] ppocr INFO: [[[441.0, 174.0], [1166.0, 176.0], [1165.0, 222.0], [441.0, 221.0]], ('ACKNOWLEDGEMENTS', 0.9971134662628174)]
