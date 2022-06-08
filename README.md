@@ -14,6 +14,12 @@
 
 > https://iq.opengenus.org/delete-conda-environment/
 
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/ppocr_introduction_en.md
+
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/benchmark_en.md
+
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/PP-OCRv3_introduction_en.md
+
 ## Setup
 > conda install poppler
 
