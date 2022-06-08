@@ -1,4 +1,40 @@
 # ocr
+# PaddleOCR Quick Start
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/environment_en.md
+
+> https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_en/quickstart_en.md
+
+## 1. Installation
+
+<a name="11-install-paddlepaddle"></a>
+
+### 1.1 Install PaddlePaddle
+
+> If you do not have a Python environment, please refer to [Environment Preparation](./environment_en.md).
+
+- If you have CUDA 9 or CUDA 10 installed on your machine, please run the following command to install
+
+  ```bash
+  python3 -m pip install paddlepaddle-gpu
+  ```
+
+- If you have no available GPU on your machine, please run the following command to install the CPU version
+
+  ```bash
+  python3 -m pip install paddlepaddle
+  ```
+
+For more software version requirements, please refer to the instructions in [Installation Document](https://www.paddlepaddle.org.cn/install/quick) for operation.
+
+<a name="12-install-paddleocr-whl-package"></a>
+
+### 1.2 Install PaddleOCR Whl Package
+
+```bash
+pip install "paddleocr>=2.0.1" # Recommend to use version 2.0.1+
+```
+
+
 ## 2. Easy-to-Use
 
 <a name="21-use-by-command-line"></a>
